@@ -11,3 +11,10 @@ The system may require more work, such as:
   a login interface (much later stage)
   better user interface
   functions moved to its own Controller
+
+
+--------------------------------------------------------
+The unit tests are not ready yet.
+To prepare example data, migrate first, then run:
+  php artisan db:seed
+--------------------------------------------------------
